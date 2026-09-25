@@ -371,3 +371,81 @@ window.GUIDE.places.push(...[
   }
 ]);
 const pubTypes={"johann":"Brewery restaurant","hafenhalle":"Beer garden","max":"Brewery restaurant","hopfengut":"Brewery restaurant","wiss":"Beer garden","engelpub":"Pub","korn":"Brewery bar","lowen":"Beer garden","wirtshaus":"Inn","gustav":"Bar"};window.GUIDE.places.forEach(p=>{if(pubTypes[p.id])p.pubType=pubTypes[p.id];});
+
+window.GUIDE.places.push(...[
+  {
+    "id": "konrad",
+    "name": "konrad bike sharing",
+    "area": "west",
+    "town": "Konstanz · Mainau · Staad",
+    "rentalType": "Station-to-station",
+    "why": "Unlock a regular bicycle with the Mein konrad app and return it at another suitable konrad station. Useful for local one-way outings, including Mainau and the Staad ferry terminal.",
+    "try": "Check both pickup availability and the destination station in Mein konrad before starting. Regular bikes use k RAD or k PLUS stations.",
+    "near": "Konstanz old town, Mainau and the eastern city shore.",
+    "note": "You may ride into Switzerland, but cannot end the rental there. Return to an authorised konrad station. Suburban k HEIMAT cargo bikes must return to their original station. This is a local network, not a lake-wide one-way rental.",
+    "sources": [
+      [
+        "App, station map and prices",
+        "https://www.stadtwerke-konstanz.de/fahrrad/fahrradmietsystem/"
+      ],
+      [
+        "Return rules",
+        "https://www.stadtwerke-konstanz.de/fahrrad/fahrradmietsystem/gebuehren/"
+      ],
+      [
+        "Cross-border use",
+        "https://www.stadtwerke-konstanz.de/fahrrad/aktuelles/mietstation-klein-venedig/"
+      ]
+    ],
+    "kind": "Move"
+  },
+  {
+    "id": "dott",
+    "name": "Dott electric bike sharing",
+    "area": "hops",
+    "town": "Friedrichshafen · local service area",
+    "rentalType": "App parking zones",
+    "why": "The closest option here to Lime-style hiring: find an electric bicycle in the Dott app, unlock it and finish at a permitted location within the local service area.",
+    "try": "Choose a bicycle rather than a scooter in the app. Check the current service boundary, return zones, price and availability before unlocking.",
+    "near": "Friedrichshafen town, waterfront and local connections.",
+    "note": "This is local urban sharing. Do not assume you can leave a bike in another lake town or take it across a border. Follow the app’s permitted return locations and complete the parking photo and end-rental confirmation.",
+    "sources": [
+      [
+        "City guide to Dott bikes and return rules",
+        "https://www.friedrichshafen.de/wirtschaft-mobilitaet/verkehr-mobilitaet/e-mobilitaet/e-scooter-pedelecs/"
+      ],
+      [
+        "Dott app",
+        "https://ridedott.com/"
+      ]
+    ],
+    "kind": "Move"
+  },
+  {
+    "id": "regivelo",
+    "name": "RegiVelo / Donkey Republic",
+    "area": "west",
+    "town": "Kreuzlingen & nearby Swiss towns",
+    "rentalType": "Designated return locations",
+    "why": "App-based bicycles and e-bikes around Kreuzlingen and neighbouring communities. A useful option for a short ride on the Swiss side of the western lake.",
+    "try": "Use Donkey Republic to find a bike and check its allowed drop-off locations before renting. Return locations and available bike types are shown in the app.",
+    "near": "Kreuzlingen, Bottighofen and the western Swiss shore. Listed with the Konstanz & west area because of its location.",
+    "note": "Do not assume coverage extends to Romanshorn, Arbon or the entire Swiss shore. RegiVelo and konrad are separate systems: you cannot return one operator’s bike to the other’s station. Check current prices and rental conditions in the app.",
+    "sources": [
+      [
+        "Regional rail guide to RegiVelo",
+        "https://www.thurbo.ch/freizeit/ausflugstipps/regivelo/"
+      ],
+      [
+        "How to return a Donkey bike",
+        "https://donkeyrepublichelp.zendesk.com/hc/de/articles/211794125-Wie-kann-ich-mein-Donkey-zur%C3%BCckgeben-und-meine-Miete-beenden"
+      ],
+      [
+        "Separate cross-border systems",
+        "https://www.stadtwerke-konstanz.de/fahrrad/aktuelles/mietstation-klein-venedig/"
+      ]
+    ],
+    "kind": "Move"
+  }
+]);
+window.GUIDE.places.forEach(p=>{if(["kultur","bregenzrental","rentaswiss"].includes(p.id))p.rentalType="Conventional rental · confirm return";});

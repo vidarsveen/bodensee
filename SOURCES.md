@@ -412,3 +412,29 @@ Rorschach · Beer
 Source checked 25 September 2026. Check current hours, food service and events directly; this is not a live opening-status check.
 
 - [Venue / official tourism source](https://www.starsandstripes.ch/de/p/standorte/rorschach-1089.html)
+## konrad bike sharing
+
+Konstanz · Mainau · Staad · Move
+
+You may ride into Switzerland, but cannot end the rental there. Return to an authorised konrad station. Suburban k HEIMAT cargo bikes must return to their original station. This is a local network, not a lake-wide one-way rental.
+
+- [App, station map and prices](https://www.stadtwerke-konstanz.de/fahrrad/fahrradmietsystem/)
+- [Return rules](https://www.stadtwerke-konstanz.de/fahrrad/fahrradmietsystem/gebuehren/)
+- [Cross-border use](https://www.stadtwerke-konstanz.de/fahrrad/aktuelles/mietstation-klein-venedig/)
+## Dott electric bike sharing
+
+Friedrichshafen · local service area · Move
+
+This is local urban sharing. Do not assume you can leave a bike in another lake town or take it across a border. Follow the app’s permitted return locations and complete the parking photo and end-rental confirmation.
+
+- [City guide to Dott bikes and return rules](https://www.friedrichshafen.de/wirtschaft-mobilitaet/verkehr-mobilitaet/e-mobilitaet/e-scooter-pedelecs/)
+- [Dott app](https://ridedott.com/)
+## RegiVelo / Donkey Republic
+
+Kreuzlingen & nearby Swiss towns · Move
+
+Do not assume coverage extends to Romanshorn, Arbon or the entire Swiss shore. RegiVelo and konrad are separate systems: you cannot return one operator’s bike to the other’s station. Check current prices and rental conditions in the app.
+
+- [Regional rail guide to RegiVelo](https://www.thurbo.ch/freizeit/ausflugstipps/regivelo/)
+- [How to return a Donkey bike](https://donkeyrepublichelp.zendesk.com/hc/de/articles/211794125-Wie-kann-ich-mein-Donkey-zur%C3%BCckgeben-und-meine-Miete-beenden)
+- [Separate cross-border systems](https://www.stadtwerke-konstanz.de/fahrrad/aktuelles/mietstation-klein-venedig/)
