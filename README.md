@@ -1,10 +1,9 @@
-# Lake Days — Bodensee guide
+# Lake Days — six guides to Bodensee
 
-A mobile-friendly guide to Lake Constance with photographs, a 3D map, places to stay, Booking.com links and favourites saved on your device.
+Start with the illustrated map and choose one of six areas. Each guide brings together food and beer, nearby sights, a bike outing, rentals and crossings where researched, and hotels with Booking.com links.
 
-Website: https://vidarsveen.github.io/bodensee/
+The general cycling guide covers planning, rentals, ferries and bike storage. The map is a schematic overview, not a navigation map. Photos require internet access. Favourites stay in the current browser.
 
-GitHub Pages settings: Deploy from a branch, main, /(root).
+Live guide: https://vidarsveen.github.io/bodensee/
 
-Maps and photographs require an internet connection. Photo copyright remains with the original publishers; see PHOTO-CREDITS.md. Sources and venue details may change.
-
+Photo copyright remains with the original publishers; see PHOTO-CREDITS.md. Opening times and availability should be checked directly.
