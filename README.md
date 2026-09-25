@@ -7,3 +7,5 @@ The general cycling guide covers planning, rentals, ferries and bike storage. Th
 Live guide: https://vidarsveen.github.io/bodensee/
 
 Photo copyright remains with the original publishers; see PHOTO-CREDITS.md. Opening times and availability should be checked directly.
+
+Separate guides: #pubs (26 researched pub, bar and beer-garden listings) and #intro (geography, history and orientation). Pub coverage is not exhaustive; source and coverage notes are included in the guide.

@@ -300,3 +300,115 @@ Central harbours · Move
 Operator FAQ says a maximum of 10 bicycles per crossing. Carriage is not guaranteed; check current arrangements and allow another option.
 
 - [Operator bicycle FAQ](https://www.der-katamaran.de/die-reederei/faq.html)
+## Logan's City
+
+Konstanz - Zogelmannstrasse 2 · Beer
+
+Source checked 25 September 2026. Check current hours, food service and events directly; this is not a live opening-status check.
+
+- [Venue / official tourism source](https://logans-pub.de/speisekarte)
+## Logan's am Seerhein
+
+Konstanz - Reichenaustrasse 2 · Beer
+
+Source checked 25 September 2026. Check current hours, food service and events directly; this is not a live opening-status check.
+
+- [Venue / official tourism source](https://www.konstanz-info.com/gastronomie/logans-am-seerhein-3d9a8dfc04)
+## The Craic
+
+Konstanz · Beer
+
+Source checked 25 September 2026. Check current hours, food service and events directly; this is not a live opening-status check.
+
+- [Venue / official tourism source](https://www.craic-konstanz.de/)
+## The Irish Exit
+
+Radolfzell - Hoellstrasse 13 · Beer
+
+Source checked 25 September 2026. Check current hours, food service and events directly; this is not a live opening-status check.
+
+- [Venue / official tourism source](https://the-irish-exit.de/)
+## Kolbenfresser
+
+Konstanz - Fuerstenbergstrasse 127 · Beer
+
+Official tourism guide from 2024; reconfirm current operation before a special trip.
+
+- [Venue / official tourism source](https://www.konstanz-info.com/_Resources/Persistent/f442f32e24d37b2698380efec914024c83b19ed3/Genussvoll%20leben_2024.pdf)
+## Klimperkasten
+
+Konstanz - Bodanstrasse 40 · Beer
+
+Source checked 25 September 2026. Check current hours, food service and events directly; this is not a live opening-status check.
+
+- [Venue / official tourism source](https://www.konstanz-info.com/gastronomie/bar-klimperkasten-f4431752ce)
+## Galgenhoelzle
+
+Ueberlingen · Beer
+
+Source checked 25 September 2026. Check current hours, food service and events directly; this is not a live opening-status check.
+
+- [Venue / official tourism source](https://www.galgenhoelzle.de/)
+## Wirtshaus zum Faulen Pelz
+
+Ueberlingen - promenade · Beer
+
+Source checked 25 September 2026. Check current hours, food service and events directly; this is not a live opening-status check.
+
+- [Venue / official tourism source](https://zum-faulen-pelz.de/)
+## Western Saloon Cafe & Bar
+
+Friedrichshafen · Beer
+
+Source checked 25 September 2026. Check current hours, food service and events directly; this is not a live opening-status check.
+
+- [Venue / official tourism source](https://saloon-friedrichshafen.de/)
+## Lammgarten
+
+Friedrichshafen - waterfront promenade · Beer
+
+Source checked 25 September 2026. Check current hours, food service and events directly; this is not a live opening-status check.
+
+- [Venue / official tourism source](https://www.lammgarten.de/)
+## Tiffany's Lounge
+
+Friedrichshafen - Friedrichstrasse 73 · Beer
+
+Source checked 25 September 2026. Check current hours, food service and events directly; this is not a live opening-status check.
+
+- [Venue / official tourism source](https://www.tiffany-friedrichshafen.de/en/bar-friedrichshafen/)
+## Mike's Irish Pub
+
+Lindau island - In der Grub 34 · Beer
+
+Directory listing only; current operation and hours need direct confirmation.
+
+- [Travel-directory listing](https://www.marcopolo.de/reisefuehrer/obersee-177093/highlights/ausgehen-345181)
+## Bierbar
+
+Bregenz - Kirchstrasse 6-8 · Beer
+
+Source checked 25 September 2026. Check current hours, food service and events directly; this is not a live opening-status check.
+
+- [Venue / official tourism source](https://visitbregenz.com/en/experience-bregenz/eat-drink/nightlife-bars/bars/1)
+## Ambiente Bar Pub Billard
+
+Bregenz - Mariahilfstrasse 6 · Beer
+
+Source checked 25 September 2026. Check current hours, food service and events directly; this is not a live opening-status check.
+
+- [Venue / official tourism source](https://visitbregenz.com/en/erleben/essen-trinken/nachtleben-bars/details/ambiente-billard-bar)
+## Brauerei Frohsinn
+
+Arbon - Romanshornerstrasse 15 · Beer
+
+Source checked 25 September 2026. Check current hours, food service and events directly; this is not a live opening-status check.
+
+- [Venue / official tourism source](https://frohsinn-arbon.ch/)
+## Stars and Stripes
+
+Rorschach · Beer
+
+Source checked 25 September 2026. Check current hours, food service and events directly; this is not a live opening-status check.
+
+- [Venue / official tourism source](https://www.starsandstripes.ch/de/p/standorte/rorschach-1089.html)

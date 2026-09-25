@@ -78,3 +78,296 @@ const bookingListings = {
  seegarten:'https://www.booking.com/hotel/ch/restaurant-seegarten.en-gb.html'
 };
 window.GUIDE.places.forEach(place => { if (bookingListings[place.id]) place.booking = bookingListings[place.id]; });
+
+// Additional pub-guide research, 25 September 2026.
+window.GUIDE.places.push(...[
+  {
+    "id": "logans-city",
+    "area": "west",
+    "name": "Logan's City",
+    "town": "Konstanz - Zogelmannstrasse 2",
+    "pubType": "Pub",
+    "kind": "Beer",
+    "why": "An Irish-pub option in the centre of Konstanz, with Irish and German draught beers.",
+    "try": "Guinness, Kilkenny or a German draught beer; check the current food and events menus.",
+    "near": "See the Konstanz and western lake area guide for nearby stays, sights and cycling ideas.",
+    "note": "Source checked 25 September 2026. Check current hours, food service and events directly; this is not a live opening-status check.",
+    "sources": [
+      [
+        "Venue / official tourism source",
+        "https://logans-pub.de/speisekarte"
+      ]
+    ]
+  },
+  {
+    "id": "logans-rhein",
+    "area": "west",
+    "name": "Logan's am Seerhein",
+    "town": "Konstanz - Reichenaustrasse 2",
+    "pubType": "Pub",
+    "kind": "Beer",
+    "why": "The Seerhein branch gives you an alternative to the old-town pub circuit.",
+    "try": "A pint and a sporting event; confirm the programme for your evening.",
+    "near": "See the Konstanz and western lake area guide for nearby stays, sights and cycling ideas.",
+    "note": "Source checked 25 September 2026. Check current hours, food service and events directly; this is not a live opening-status check.",
+    "sources": [
+      [
+        "Venue / official tourism source",
+        "https://www.konstanz-info.com/gastronomie/logans-am-seerhein-3d9a8dfc04"
+      ]
+    ]
+  },
+  {
+    "id": "craic",
+    "area": "west",
+    "name": "The Craic",
+    "town": "Konstanz",
+    "pubType": "Pub",
+    "kind": "Beer",
+    "why": "An Irish pub for a straightforward pub evening in Konstanz.",
+    "try": "Explore the current beer selection, including alcohol-free choices.",
+    "near": "See the Konstanz and western lake area guide for nearby stays, sights and cycling ideas.",
+    "note": "Source checked 25 September 2026. Check current hours, food service and events directly; this is not a live opening-status check.",
+    "sources": [
+      [
+        "Venue / official tourism source",
+        "https://www.craic-konstanz.de/"
+      ]
+    ]
+  },
+  {
+    "id": "irish-exit",
+    "area": "west",
+    "name": "The Irish Exit",
+    "town": "Radolfzell - Hoellstrasse 13",
+    "pubType": "Pub",
+    "kind": "Beer",
+    "why": "A western-lake detour with a central bar and a small food menu.",
+    "try": "Fish and chips or an oven-baked bread alongside a beer; check kitchen hours.",
+    "near": "See the Konstanz and western lake area guide for nearby stays, sights and cycling ideas.",
+    "note": "Source checked 25 September 2026. Check current hours, food service and events directly; this is not a live opening-status check.",
+    "sources": [
+      [
+        "Venue / official tourism source",
+        "https://the-irish-exit.de/"
+      ]
+    ]
+  },
+  {
+    "id": "kolben",
+    "area": "west",
+    "name": "Kolbenfresser",
+    "town": "Konstanz - Fuerstenbergstrasse 127",
+    "pubType": "Pub",
+    "kind": "Beer",
+    "why": "A neighbourhood pub and beer garden away from the harbour circuit, listed by Konstanz tourism.",
+    "try": "A casual beer and Vesper-style food; the tourism listing mentions rock music, darts and table football.",
+    "near": "See the Konstanz and western lake area guide for nearby stays, sights and cycling ideas.",
+    "note": "Official tourism guide from 2024; reconfirm current operation before a special trip.",
+    "sources": [
+      [
+        "Venue / official tourism source",
+        "https://www.konstanz-info.com/_Resources/Persistent/f442f32e24d37b2698380efec914024c83b19ed3/Genussvoll%20leben_2024.pdf"
+      ]
+    ]
+  },
+  {
+    "id": "klimper",
+    "area": "west",
+    "name": "Klimperkasten",
+    "town": "Konstanz - Bodanstrasse 40",
+    "pubType": "Bar",
+    "kind": "Beer",
+    "why": "A spacious bar with music and events, listed by the local tourist office.",
+    "try": "Check the event programme before choosing between a quiet drink and a lively night.",
+    "near": "See the Konstanz and western lake area guide for nearby stays, sights and cycling ideas.",
+    "note": "Source checked 25 September 2026. Check current hours, food service and events directly; this is not a live opening-status check.",
+    "sources": [
+      [
+        "Venue / official tourism source",
+        "https://www.konstanz-info.com/gastronomie/bar-klimperkasten-f4431752ce"
+      ]
+    ]
+  },
+  {
+    "id": "galgen",
+    "area": "north",
+    "name": "Galgenhoelzle",
+    "town": "Ueberlingen",
+    "pubType": "Pub",
+    "kind": "Beer",
+    "why": "A pub, beer bar and live-music venue with a broad beer selection.",
+    "try": "A beer and a look at the music calendar. The venue describes smoking and non-smoking areas.",
+    "near": "See the Meersburg and Ueberlingen area guide for nearby stays, sights and cycling ideas.",
+    "note": "Source checked 25 September 2026. Check current hours, food service and events directly; this is not a live opening-status check.",
+    "sources": [
+      [
+        "Venue / official tourism source",
+        "https://www.galgenhoelzle.de/"
+      ]
+    ]
+  },
+  {
+    "id": "fauler",
+    "area": "north",
+    "name": "Wirtshaus zum Faulen Pelz",
+    "town": "Ueberlingen - promenade",
+    "pubType": "Beer garden",
+    "kind": "Beer",
+    "why": "A Bavarian-style inn and beer garden by the lake promenade.",
+    "try": "Choose a meal and beer from the current menu; outdoor seating depends on conditions.",
+    "near": "See the Meersburg and Ueberlingen area guide for nearby stays, sights and cycling ideas.",
+    "note": "Source checked 25 September 2026. Check current hours, food service and events directly; this is not a live opening-status check.",
+    "sources": [
+      [
+        "Venue / official tourism source",
+        "https://zum-faulen-pelz.de/"
+      ]
+    ]
+  },
+  {
+    "id": "saloon",
+    "area": "hops",
+    "name": "Western Saloon Cafe & Bar",
+    "town": "Friedrichshafen",
+    "pubType": "Pub",
+    "kind": "Beer",
+    "why": "A casual saloon-style bar with draught beer and bottled dark beer.",
+    "try": "A freshly poured beer, or ask about the dark bottled beer selection.",
+    "near": "See the Friedrichshafen and hop country area guide for nearby stays, sights and cycling ideas.",
+    "note": "Source checked 25 September 2026. Check current hours, food service and events directly; this is not a live opening-status check.",
+    "sources": [
+      [
+        "Venue / official tourism source",
+        "https://saloon-friedrichshafen.de/"
+      ]
+    ]
+  },
+  {
+    "id": "lammgarten",
+    "area": "hops",
+    "name": "Lammgarten",
+    "town": "Friedrichshafen - waterfront promenade",
+    "pubType": "Beer garden",
+    "kind": "Beer",
+    "why": "A substantial waterfront beer garden for an outdoor stop in Friedrichshafen.",
+    "try": "A lakeside table and a beer; check seasonal operation before travelling.",
+    "near": "See the Friedrichshafen and hop country area guide for nearby stays, sights and cycling ideas.",
+    "note": "Source checked 25 September 2026. Check current hours, food service and events directly; this is not a live opening-status check.",
+    "sources": [
+      [
+        "Venue / official tourism source",
+        "https://www.lammgarten.de/"
+      ]
+    ]
+  },
+  {
+    "id": "tiffany",
+    "area": "hops",
+    "name": "Tiffany's Lounge",
+    "town": "Friedrichshafen - Friedrichstrasse 73",
+    "pubType": "Bar",
+    "kind": "Beer",
+    "why": "A restaurant lounge with beers, cocktails and whisky, rather than a traditional pub.",
+    "try": "An evening drink with food from the lounge menu if wanted.",
+    "near": "See the Friedrichshafen and hop country area guide for nearby stays, sights and cycling ideas.",
+    "note": "Source checked 25 September 2026. Check current hours, food service and events directly; this is not a live opening-status check.",
+    "sources": [
+      [
+        "Venue / official tourism source",
+        "https://www.tiffany-friedrichshafen.de/en/bar-friedrichshafen/"
+      ]
+    ]
+  },
+  {
+    "id": "mikes",
+    "area": "lindau",
+    "name": "Mike's Irish Pub",
+    "town": "Lindau island - In der Grub 34",
+    "pubType": "Pub",
+    "kind": "Beer",
+    "why": "An Irish-pub listing in the same island lane as Wissingers.",
+    "try": "Check directly before visiting: this entry is supported by a travel-directory listing, not a current operator website.",
+    "near": "See the Lindau area guide for nearby stays, sights and cycling ideas.",
+    "note": "Directory listing only; current operation and hours need direct confirmation.",
+    "sources": [
+      [
+        "Travel-directory listing",
+        "https://www.marcopolo.de/reisefuehrer/obersee-177093/highlights/ausgehen-345181"
+      ]
+    ]
+  },
+  {
+    "id": "bierbar",
+    "area": "austria",
+    "name": "Bierbar",
+    "town": "Bregenz - Kirchstrasse 6-8",
+    "pubType": "Pub",
+    "kind": "Beer",
+    "why": "A beer-bar option listed by Bregenz tourism, useful for an evening in town.",
+    "try": "Check the current beer list and opening hours directly.",
+    "near": "See the Bregenz area guide for nearby stays, sights and cycling ideas.",
+    "note": "Source checked 25 September 2026. Check current hours, food service and events directly; this is not a live opening-status check.",
+    "sources": [
+      [
+        "Venue / official tourism source",
+        "https://visitbregenz.com/en/experience-bregenz/eat-drink/nightlife-bars/bars/1"
+      ]
+    ]
+  },
+  {
+    "id": "ambiente",
+    "area": "austria",
+    "name": "Ambiente Bar Pub Billard",
+    "town": "Bregenz - Mariahilfstrasse 6",
+    "pubType": "Pub",
+    "kind": "Beer",
+    "why": "A pub and billiards option listed by the local tourist office.",
+    "try": "A drink and a game; confirm table availability and current hours.",
+    "near": "See the Bregenz area guide for nearby stays, sights and cycling ideas.",
+    "note": "Source checked 25 September 2026. Check current hours, food service and events directly; this is not a live opening-status check.",
+    "sources": [
+      [
+        "Venue / official tourism source",
+        "https://visitbregenz.com/en/erleben/essen-trinken/nachtleben-bars/details/ambiente-billard-bar"
+      ]
+    ]
+  },
+  {
+    "id": "frohsinn",
+    "area": "swiss",
+    "name": "Brauerei Frohsinn",
+    "town": "Arbon - Romanshornerstrasse 15",
+    "pubType": "Brewery restaurant",
+    "kind": "Beer",
+    "why": "A brewery, restaurant and hotel in Arbon: a natural addition to a beer-focused Swiss-shore visit.",
+    "try": "Ask about house beers and the current restaurant menu.",
+    "near": "See the Swiss shore area guide for nearby stays, sights and cycling ideas.",
+    "note": "Source checked 25 September 2026. Check current hours, food service and events directly; this is not a live opening-status check.",
+    "sources": [
+      [
+        "Venue / official tourism source",
+        "https://frohsinn-arbon.ch/"
+      ]
+    ]
+  },
+  {
+    "id": "stars",
+    "area": "swiss",
+    "name": "Stars and Stripes",
+    "town": "Rorschach",
+    "pubType": "Bar",
+    "kind": "Beer",
+    "why": "An American bar and restaurant for a different style of Swiss-shore evening.",
+    "try": "Look at the current drinks and food menus before deciding.",
+    "near": "See the Swiss shore area guide for nearby stays, sights and cycling ideas.",
+    "note": "Source checked 25 September 2026. Check current hours, food service and events directly; this is not a live opening-status check.",
+    "sources": [
+      [
+        "Venue / official tourism source",
+        "https://www.starsandstripes.ch/de/p/standorte/rorschach-1089.html"
+      ]
+    ]
+  }
+]);
+const pubTypes={"johann":"Brewery restaurant","hafenhalle":"Beer garden","max":"Brewery restaurant","hopfengut":"Brewery restaurant","wiss":"Beer garden","engelpub":"Pub","korn":"Brewery bar","lowen":"Beer garden","wirtshaus":"Inn","gustav":"Bar"};window.GUIDE.places.forEach(p=>{if(pubTypes[p.id])p.pubType=pubTypes[p.id];});
