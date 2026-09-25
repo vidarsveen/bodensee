@@ -177,3 +177,8 @@ MapLibre GL JS; satellite imagery: Esri, Vantor, Earthstar Geographics and the G
 - [Photo source: logans-pub.de](https://logans-pub.de/) - [image](https://logans-pub.de/wp-content/uploads/elementor/thumbs/IMG_1772-1-scaled-1-rh2pu2ty4auzwwity35wdkcetx7buw2c0kp98bsrkw.jpeg)
 
 Pub cards never substitute area photographs for missing venue photographs. The Craic and Logan's Seerhein images are identified as website pub imagery and a pub-quiz image respectively.
+
+
+## Detailed illustrated map replacement
+
+Shoreline: OpenStreetMap relation 1156846, retrieved 25 September 2026 through polygons.openstreetmap.fr. 16,051 coordinate points, retained in the vector map. Data copyright OpenStreetMap contributors, licensed under ODbL: https://www.openstreetmap.org/copyright . The source geometry is supplied as lake-shoreline.geojson. Town labels and six guide anchors are editorial annotations; land shading is illustrative, not measured elevation.
