@@ -182,3 +182,8 @@ Pub cards never substitute area photographs for missing venue photographs. The C
 ## Detailed illustrated map replacement
 
 Shoreline: OpenStreetMap relation 1156846, retrieved 25 September 2026 through polygons.openstreetmap.fr. 16,051 coordinate points, retained in the vector map. Data copyright OpenStreetMap contributors, licensed under ODbL: https://www.openstreetmap.org/copyright . The source geometry is supplied as lake-shoreline.geojson. Town labels and six guide anchors are editorial annotations; land shading is illustrative, not measured elevation.
+
+
+## Welcome film
+
+User-supplied cycling video, 10-second edit from the task “Shorten video to 10 seconds”. Music: “Happy Days Are Here Again”, Casa Loma Orchestra vintage recording, as included in the supplied edit. Recording source: https://www.historyonthenet.com/authentichistory/1930-1939/3-music/19291029-Happy_Days_Are_Here_Again-Casa_Loma_Orchestra.html . Web copy encoded at 720 × 1280 with the original portrait framing.
