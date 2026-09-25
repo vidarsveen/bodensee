@@ -688,3 +688,5 @@ window.NB_TEXT={
   "How to return a Donkey bike": "Slik leverer du en Donkey-sykkel",
   "Separate cross-border systems": "Separate systemer ved grensen"
 };
+
+Object.assign(window.NB_TEXT,{"OUR BODENSEE TRIP · JUST THE TWO OF US":"VÅR BODENSEE-TUR · BARE OSS TO","Two bikes. One lake.":"To sykler. Én innsjø.","Good beer.":"Godt øl.","Our little guide to lakeside rides, brewery stops and long evenings. Pick a shore and let the day unfold.":"Vår lille guide til sykkelturer langs vannet, bryggeristopp og lange kvelder. Velg en bredd og ta dagen som den kommer."});
