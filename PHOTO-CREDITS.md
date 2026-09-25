@@ -139,3 +139,41 @@ Venue photographs are linked from the official venue or tourism websites for thi
 ## Map
 
 MapLibre GL JS; satellite imagery: Esri, Vantor, Earthstar Geographics and the GIS User Community; street maps: © OpenStreetMap contributors; elevation: Mapterhorn and its [underlying data providers](https://mapterhorn.com/attribution). Area pins are geographic browsing anchors, not exact venue entrances.
+
+## Pub-guide photographs added 25 September 2026
+
+### craic
+- [Photo source: craic-konstanz.de](https://www.craic-konstanz.de/) - [image](https://www.craic-konstanz.de/files/Bilder-und-Dateien/Kontakt.jpg)
+
+### irish-exit
+- [Photo source: the-irish-exit.de](https://the-irish-exit.de/) - [image](https://the-irish-exit.de/wp-content/uploads/2024/02/the-irish-exit-image-pub-people-0581-verlauf2.jpg)
+
+### galgen
+- [Photo source: galgenhoelzle.de](https://www.galgenhoelzle.de/) - [image](https://image.jimcdn.com/app/cms/image/transf/none/path/s19a96957e296db65/image/i9207a2f0b8cfa406/version/1538989160/galgenhoelzle-ueberlingen.jpg)
+
+### fauler
+- [Photo source: zum-faulen-pelz.de](https://zum-faulen-pelz.de/) - [image](https://zum-faulen-pelz.de/wp-content/uploads/Wirthsaus-zum-faulen-pelz-ueberlingen-bodensee-KDS_5820-Verbessert-RR.jpg)
+- [Photo source: zum-faulen-pelz.de](https://zum-faulen-pelz.de/) - [image](https://zum-faulen-pelz.de/wp-content/uploads/Wirthsaus-zum-faulen-pelz-ueberlingen-bodensee-KDS_1225-HDR-Verbessert-RR-1024x683.jpg)
+
+### saloon
+- [Photo source: saloon-friedrichshafen.de](https://saloon-friedrichshafen.de/) - [image](https://saloon-friedrichshafen.de/wp-content/uploads/2019/06/saloon-slider-1.jpg)
+- [Photo source: saloon-friedrichshafen.de](https://saloon-friedrichshafen.de/) - [image](https://saloon-friedrichshafen.de/wp-content/uploads/2019/06/saloon-slider-2.jpg)
+
+### lammgarten
+- [Photo source: lammgarten.de](https://www.lammgarten.de/) - [image](https://www.lammgarten.de/wp-content/uploads/2022/02/bedienung-bier-biergarten-friedrichshafen-uferpromenade-bodensee-lammgarten.jpg)
+
+### frohsinn
+- [Photo source: frohsinn-arbon.ch](https://frohsinn-arbon.ch/) - [image](https://frohsinn-arbon.ch/wp-content/uploads/2023/07/Bild-Frohsinn_768x512.jpg)
+- [Photo source: frohsinn-arbon.ch](https://frohsinn-arbon.ch/) - [image](https://frohsinn-arbon.ch/wp-content/uploads/2023/07/Restaurant-768x512-1.jpg)
+
+### stars
+- [Photo source: starsandstripes.ch](https://www.starsandstripes.ch/de/p/standorte/rorschach-1089.html) - [image](https://img.dmstr.net/660x,q90/https://www.starsandstripes.ch/img/stream/content-img/rorschach/content-stars-and-stripes-standortbild-rorschach-innenbereich-1.jpg,p5)
+- [Photo source: starsandstripes.ch](https://www.starsandstripes.ch/de/p/standorte/rorschach-1089.html) - [image](https://img.dmstr.net/660x,q90/https://www.starsandstripes.ch/img/stream/content-img/rorschach/content-stars-and-stripes-standortbild-rorschach-innenbereich-2.jpg,p5)
+
+### bierbar
+- [Photo: Manuel Paul / Bodensee-Vorarlberg](https://www.bodensee-vorarlberg.com/en/bierbar) - [image](https://www.bodensee-vorarlberg.com/uploads/media/1200x630/00/56090-BIERBAR-04-by-manuelpaul-POIS-Bregenz.jpg?v=3-0)
+
+### logans-rhein
+- [Photo source: logans-pub.de](https://logans-pub.de/) - [image](https://logans-pub.de/wp-content/uploads/elementor/thumbs/IMG_1772-1-scaled-1-rh2pu2ty4auzwwity35wdkcetx7buw2c0kp98bsrkw.jpeg)
+
+Pub cards never substitute area photographs for missing venue photographs. The Craic and Logan's Seerhein images are identified as website pub imagery and a pub-quiz image respectively.

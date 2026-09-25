@@ -391,6 +391,110 @@ window.MEDIA = {
         "credit": "Photo: Hotel Bodensee",
         "caption": "Hotel Bodensee exterior"
       }
+    ],
+    "craic": [
+      {
+        "src": "https://www.craic-konstanz.de/files/Bilder-und-Dateien/Kontakt.jpg",
+        "source": "https://www.craic-konstanz.de/",
+        "credit": "Photo source: craic-konstanz.de",
+        "caption": "Pub image from The Craic website"
+      }
+    ],
+    "irish-exit": [
+      {
+        "src": "https://the-irish-exit.de/wp-content/uploads/2024/02/the-irish-exit-image-pub-people-0581-verlauf2.jpg",
+        "source": "https://the-irish-exit.de/",
+        "credit": "Photo source: the-irish-exit.de",
+        "caption": "Venue photograph from the linked source"
+      }
+    ],
+    "galgen": [
+      {
+        "src": "https://image.jimcdn.com/app/cms/image/transf/none/path/s19a96957e296db65/image/i9207a2f0b8cfa406/version/1538989160/galgenhoelzle-ueberlingen.jpg",
+        "source": "https://www.galgenhoelzle.de/",
+        "credit": "Photo source: galgenhoelzle.de",
+        "caption": "Venue photograph from the linked source"
+      }
+    ],
+    "fauler": [
+      {
+        "src": "https://zum-faulen-pelz.de/wp-content/uploads/Wirthsaus-zum-faulen-pelz-ueberlingen-bodensee-KDS_5820-Verbessert-RR.jpg",
+        "source": "https://zum-faulen-pelz.de/",
+        "credit": "Photo source: zum-faulen-pelz.de",
+        "caption": "Venue photograph from the linked source"
+      },
+      {
+        "src": "https://zum-faulen-pelz.de/wp-content/uploads/Wirthsaus-zum-faulen-pelz-ueberlingen-bodensee-KDS_1225-HDR-Verbessert-RR-1024x683.jpg",
+        "source": "https://zum-faulen-pelz.de/",
+        "credit": "Photo source: zum-faulen-pelz.de",
+        "caption": "Venue photograph from the linked source"
+      }
+    ],
+    "saloon": [
+      {
+        "src": "https://saloon-friedrichshafen.de/wp-content/uploads/2019/06/saloon-slider-1.jpg",
+        "source": "https://saloon-friedrichshafen.de/",
+        "credit": "Photo source: saloon-friedrichshafen.de",
+        "caption": "Venue photograph from the linked source"
+      },
+      {
+        "src": "https://saloon-friedrichshafen.de/wp-content/uploads/2019/06/saloon-slider-2.jpg",
+        "source": "https://saloon-friedrichshafen.de/",
+        "credit": "Photo source: saloon-friedrichshafen.de",
+        "caption": "Venue photograph from the linked source"
+      }
+    ],
+    "lammgarten": [
+      {
+        "src": "https://www.lammgarten.de/wp-content/uploads/2022/02/bedienung-bier-biergarten-friedrichshafen-uferpromenade-bodensee-lammgarten.jpg",
+        "source": "https://www.lammgarten.de/",
+        "credit": "Photo source: lammgarten.de",
+        "caption": "Venue photograph from the linked source"
+      }
+    ],
+    "frohsinn": [
+      {
+        "src": "https://frohsinn-arbon.ch/wp-content/uploads/2023/07/Bild-Frohsinn_768x512.jpg",
+        "source": "https://frohsinn-arbon.ch/",
+        "credit": "Photo source: frohsinn-arbon.ch",
+        "caption": "Venue photograph from the linked source"
+      },
+      {
+        "src": "https://frohsinn-arbon.ch/wp-content/uploads/2023/07/Restaurant-768x512-1.jpg",
+        "source": "https://frohsinn-arbon.ch/",
+        "credit": "Photo source: frohsinn-arbon.ch",
+        "caption": "Venue photograph from the linked source"
+      }
+    ],
+    "stars": [
+      {
+        "src": "https://img.dmstr.net/660x,q90/https://www.starsandstripes.ch/img/stream/content-img/rorschach/content-stars-and-stripes-standortbild-rorschach-innenbereich-1.jpg,p5",
+        "source": "https://www.starsandstripes.ch/de/p/standorte/rorschach-1089.html",
+        "credit": "Photo source: starsandstripes.ch",
+        "caption": "Venue photograph from the linked source"
+      },
+      {
+        "src": "https://img.dmstr.net/660x,q90/https://www.starsandstripes.ch/img/stream/content-img/rorschach/content-stars-and-stripes-standortbild-rorschach-innenbereich-2.jpg,p5",
+        "source": "https://www.starsandstripes.ch/de/p/standorte/rorschach-1089.html",
+        "credit": "Photo source: starsandstripes.ch",
+        "caption": "Venue photograph from the linked source"
+      }
+    ],
+    "bierbar": [
+      {
+        "src": "https://www.bodensee-vorarlberg.com/uploads/media/1200x630/00/56090-BIERBAR-04-by-manuelpaul-POIS-Bregenz.jpg?v=3-0",
+        "source": "https://www.bodensee-vorarlberg.com/en/bierbar",
+        "credit": "Photo: Manuel Paul / Bodensee-Vorarlberg",
+        "caption": "Venue photograph from the linked source"
+      }
+    ],
+    "logans-rhein": [
+      {
+        "src": "https://logans-pub.de/wp-content/uploads/elementor/thumbs/IMG_1772-1-scaled-1-rh2pu2ty4auzwwity35wdkcetx7buw2c0kp98bsrkw.jpeg",
+        "source": "https://logans-pub.de/",
+        "credit": "Photo source: logans-pub.de",
+        "caption": "Pub quiz image from Logan's am Seerhein website"
+      }
     ]
   },
   "regions": {
